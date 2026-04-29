@@ -4,7 +4,12 @@ An Aseprite extension that adds common keyboard shortcuts to nudge, push and mov
 
 ## Installation
 
-Download the latest release from the [releases page](https://github.com/nico/move-it/releases) and install it via Aseprite's **Edit › Preferences › Extensions › Add Extension**.
+1. Download [move-it.aseprite-extension](https://github.com/nightgrey/aseprite-move-it/releases) from the latest release.
+2. Add the extension via **Edit › Preferences › Extensions › Add Extension** in Aseprite.
+3. The new menus will be available under **Layer**.
+4. Set your preferred key bindings in **Edit › Preferences › Keys**.
+5. Enjoy!
+
 
 ## Menu commands
 
