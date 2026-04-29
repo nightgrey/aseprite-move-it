@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<keyboard version="1">
+    <commands>
+        <key command="nudge-it-left" shortcut="Left" context="Normal" />
+        <key command="nudge-it-right" shortcut="Right" context="Normal" />
+        <key command="nudge-it-up" shortcut="Up" context="Normal" />
+        <key command="nudge-it-down" shortcut="Down" context="Normal" />
+
+        <key command="push-it-left" shortcut="Shift+Left" context="Normal" />
+        <key command="push-it-right" shortcut="Shift+Right" context="Normal" />
+        <key command="push-it-up" shortcut="Shift+Up" context="Normal" />
+        <key command="push-it-down" shortcut="Shift+Down" context="Normal" />
+
+        <key command="move-it-to-origin" context="Normal" />
+    </commands>
+</keyboard>

@@ -1,0 +1,30 @@
+{
+    "name": "move-it",
+    "displayName": "Move it",
+    "description": "Nudge, push or move selected layers with arrow keys.",
+    "version": "1.1",
+    "author": {
+        "name": "Nico"
+    },
+    "license": "MIT",
+    "categories": [
+        "Scripts",
+        "Keys"
+    ],
+    "scripts": {
+        "build": "rm -f move-it.aseprite-extension && zip move-it.aseprite-extension package.json $(jq -r '[.contributes[][].path] | map(ltrimstr(\"./\")) | join(\" \")' package.json)"
+    },
+    "contributes": {
+        "scripts": [
+            {
+                "path": "./move-it.lua"
+            }
+        ],
+        "keys": [
+            {
+                "id": "move-it",
+                "path": "./extension-keys.aseprite-keys"
+            }
+        ]
+    }
+}
