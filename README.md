@@ -5,9 +5,8 @@
 An Aseprite extension that adds common keyboard shortcuts to nudge, push and move selected layers - without masking or using your mouse.
 
 > **Why?**
-> **As far as I'm aware** (I really hope I didn't overlook something obvious, I tried! : D), using [arrow keys] key with or without CTRL does not move the selected layers - this only works if they are masked.
 > 
-> This extension adds this behavior and handles nested layers and groups as you'd expect. Additionally, it adds "Move to origin".
+> **As far as I'm aware** (I really hope I didn't overlook something obvious, I tried! : D), using [arrow keys] key with or without CTRL does not move the selected layers - this only works if they are masked. This extension adds this behavior and handles nested layers and groups as you'd expect. Additionally, it adds "Move to origin".
 
 ## Installation
 
