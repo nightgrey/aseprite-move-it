@@ -2,7 +2,9 @@
 
 #[![](/docs/banner.png)](https://travis-ci.org/nightgrey/aseprite-move-it)
 
-An Aseprite extension that adds common keyboard shortcuts to nudge, push and move selected layers.
+An Aseprite extension that adds common keyboard shortcuts to nudge, push and move selected layers - without masking or using your mouse.
+
+Explanation: **As far as I saw** (I really hope I didn't overlook this: D), using [arrow keys] key with or without CTRL does not move the selected layers - this only works if they are masked. This extension adds this behavior and handles nested layers and groups as you'd expect. Additionally, it adds one "move" action - Move to origin.
 
 ## Installation
 
