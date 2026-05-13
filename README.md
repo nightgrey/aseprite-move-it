@@ -1,6 +1,6 @@
 # Move it!
 
-#[![](/docs/banner.png)](https://travis-ci.org/nightgrey/aseprite-move-it)
+[![](/docs/banner.png)](https://travis-ci.org/nightgrey/aseprite-move-it)
 
 An Aseprite extension that adds common keyboard shortcuts to nudge, push and move selected layers - without masking or using your mouse.
 
