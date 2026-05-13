@@ -47,7 +47,7 @@ Moves selected layers by 10 pixel(s) in the direction of the arrow key.
 
 ### Layer › Move
 
-Sets the position of every selected layer back to it's origin (0, 0).
+Moves selected editable layers to their origin position (0,0). 
 
 | Command     | Default shortcut |
 | ----------- | ---------------- |
